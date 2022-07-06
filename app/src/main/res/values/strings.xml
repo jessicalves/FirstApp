@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">FirstApp</string>
+    <string name="btn_click_text">Clique em mim</string>
+    <string name="txt_msg_txt">Olá, Mundo Querido!</string>
+    <string name="txt_bottom_text">Um novo Layout</string>
+    <string name="txt_after_button">O texto mudou agr via programação!</string>
+</resources>

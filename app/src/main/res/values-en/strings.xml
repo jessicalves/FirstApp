@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="btn_click_text">Click me</string>
+    <string name="txt_msg_txt">Hi, Hello World!</string>
+    <string name="txt_bottom_text">A new layout</string>
+    <string name="txt_after_button">The text changend!!</string>
+</resources>
